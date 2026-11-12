@@ -1,0 +1,24 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Prashur/landing_file#readme",
+  "bugs": {
+    "url": "https://github.com/Prashur/landing_file/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashur/landing_file.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "source": "index.js",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "sass": "^1.108.2"
+  }
+}
