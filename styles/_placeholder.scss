@@ -6,6 +6,12 @@
         color:v.$black_color;
     }
 }
+%hover-white{
+    &:hover{
+        cursor: pointer;
+        color:v.$white_color;
+    }
+}
 %hover-black-icon{
     &:hover{
         cursor: pointer;
